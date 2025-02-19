@@ -43,3 +43,6 @@ Happy coding! 🌟
 
 
 Download Now: https://marketplace.visualstudio.com/items?itemName=YivManager.yivmanager
+
+
+I'm still figuring out how to post it on github so that it is updated in VS Code. ( extention ofc )
